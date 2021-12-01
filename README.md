@@ -1,7 +1,7 @@
 # Wordpress-teste
 Projeto de wordpress da kick
 
-https://drive.google.com/file/d/1fsEJQ5Opb7sCttRyEilr3QEwzx0yT1ek/view?usp=sharing
+https://drive.google.com/file/d/18Vrzc2459zJzJp59FPcluA_ViIwAjl9e/view?usp=sharing
 
 
 
